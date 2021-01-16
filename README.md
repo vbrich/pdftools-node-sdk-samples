@@ -1,3 +1,9 @@
+# Rich Notes
+1. Had to use adobe console to create a project, but also had to "create creds" to create another project since the credentials were not in the first .zip. 
+2. Installed express (npm install express), then run with node src/express/app.js
+
+
+
 # Samples for the PDF Tools Node.js SDK
 
 This sample project helps you get started with the  PDF Tools Node.js SDK.
