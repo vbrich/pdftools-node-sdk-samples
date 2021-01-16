@@ -9,6 +9,7 @@
     "url": "git@github.com:adobe/pdftools-node-sdk-samples.git"
   },
   "dependencies": {
-    "@adobe/documentservices-pdftools-node-sdk": "1.2.0"
+    "@adobe/documentservices-pdftools-node-sdk": "1.2.0",
+    "express": "^4.17.1"
   }
 }
